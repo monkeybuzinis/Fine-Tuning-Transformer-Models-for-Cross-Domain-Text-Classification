@@ -2,7 +2,7 @@
 
 A comprehensive Natural Language Processing project demonstrating transfer learning and fine-tuning of transformer models for sentiment analysis. This project fine-tunes DistilBERT on the Sentiment140 Twitter dataset, visualizes attention mechanisms, and performs hyperparameter optimization.
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Key Features](#-key-features)
@@ -439,7 +439,7 @@ Actual Negative   414      97
 - Slight bias: Class 0 has higher precision, Class 1 has higher recall
 - Model is not heavily biased toward either class
 
-## 🔧 Hyperparameter Tuning
+## Hyperparameter Tuning
 
 ### Grid Search Parameters
 
@@ -497,7 +497,7 @@ Fine-Tuning-Transformer-Models-for-Cross-Domain-Text-Classification/
 - [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
 - [Hugging Face Datasets Documentation](https://huggingface.co/docs/datasets/)
 
-## 👤 Author
+## Author
 
 **Khanh Le**
 
